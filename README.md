@@ -6,7 +6,7 @@ Bu proje, modern bir Kredi Kartı Ödeme Sayfası tasarımıdır. useState hook 
 ## 📁 Klasör Yapısı
 
 ```
-proje-adi/
+Gorev8/
 ├── public/
 ├── src/
 │   ├── assets/
