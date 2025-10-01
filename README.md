@@ -32,3 +32,4 @@ Gorev8/
 - 🎨 Tailwind CSS
 
 
+<img width="396" height="359" alt="resim" src="https://github.com/user-attachments/assets/ffa7d26a-ff2c-40dd-ac38-95ba6542ad99" />
